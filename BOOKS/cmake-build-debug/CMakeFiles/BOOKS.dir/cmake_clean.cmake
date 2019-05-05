@@ -1,11 +1,14 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/BOOKS.dir/main.cpp.o"
-  "CMakeFiles/BOOKS.dir/BIblioteca.cpp.o"
-  "CMakeFiles/BOOKS.dir/Volumenes.cpp.o"
-  "CMakeFiles/BOOKS.dir/Libro.cpp.o"
-  "CMakeFiles/BOOKS.dir/Revista.cpp.o"
+  "CMakeFiles/BOOKS.dir/main.cpp.obj"
+  "CMakeFiles/BOOKS.dir/Biblioteca.cpp.obj"
+  "CMakeFiles/BOOKS.dir/Libro.cpp.obj"
+  "CMakeFiles/BOOKS.dir/Volumen.cpp.obj"
+  "CMakeFiles/BOOKS.dir/Revista.cpp.obj"
+  "CMakeFiles/BOOKS.dir/test.cpp.obj"
   "BOOKS.pdb"
-  "BOOKS"
+  "BOOKS.exe"
+  "BOOKS.exe.manifest"
+  "libBOOKS.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

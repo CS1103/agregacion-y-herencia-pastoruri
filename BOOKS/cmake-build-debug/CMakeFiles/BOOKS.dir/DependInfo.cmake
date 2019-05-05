@@ -4,11 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/utec/CLionProjects/BOOKS/BIblioteca.cpp" "/home/utec/CLionProjects/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/BIblioteca.cpp.o"
-  "/home/utec/CLionProjects/BOOKS/Libro.cpp" "/home/utec/CLionProjects/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Libro.cpp.o"
-  "/home/utec/CLionProjects/BOOKS/Revista.cpp" "/home/utec/CLionProjects/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Revista.cpp.o"
-  "/home/utec/CLionProjects/BOOKS/Volumenes.cpp" "/home/utec/CLionProjects/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Volumenes.cpp.o"
-  "/home/utec/CLionProjects/BOOKS/main.cpp" "/home/utec/CLionProjects/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/main.cpp.o"
+  "C:/Users/Alonso/CLionProjects/New/BOOKS/Biblioteca.cpp" "C:/Users/Alonso/CLionProjects/New/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Biblioteca.cpp.obj"
+  "C:/Users/Alonso/CLionProjects/New/BOOKS/Libro.cpp" "C:/Users/Alonso/CLionProjects/New/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Libro.cpp.obj"
+  "C:/Users/Alonso/CLionProjects/New/BOOKS/Revista.cpp" "C:/Users/Alonso/CLionProjects/New/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Revista.cpp.obj"
+  "C:/Users/Alonso/CLionProjects/New/BOOKS/Volumen.cpp" "C:/Users/Alonso/CLionProjects/New/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/Volumen.cpp.obj"
+  "C:/Users/Alonso/CLionProjects/New/BOOKS/main.cpp" "C:/Users/Alonso/CLionProjects/New/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/main.cpp.obj"
+  "C:/Users/Alonso/CLionProjects/New/BOOKS/test.cpp" "C:/Users/Alonso/CLionProjects/New/BOOKS/cmake-build-debug/CMakeFiles/BOOKS.dir/test.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

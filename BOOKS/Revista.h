@@ -6,7 +6,7 @@
 #define BOOKS_REVISTA_H
 
 
-#include "Volumenes.h"
+#include "Volumen.h"
 
 class Revista : public Volumen {
     int numRevista;

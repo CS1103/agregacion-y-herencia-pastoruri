@@ -1,8 +1,12 @@
 #include <iostream>
-#include "Volumenes.h"
+#include "Volumen.h"
 #include "Libro.h"
 #include "Revista.h"
-#include "BIblioteca.h"
+#include "Biblioteca.h"
+
+#define CATCH_CONFIG_MAIN
+#include "catch.hpp"
+#ifndef CATCH_CONFIG_MAIN
 int main() {
     Biblioteca a;
     a.incluir('r',"a");
@@ -11,7 +15,6 @@ int main() {
     a.mostrarBiblioteca();
 
 
-
-
     return 0;
 }
+#endif

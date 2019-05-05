@@ -4,7 +4,7 @@
 
 #include "Libro.h"
 #include <iostream>
-#include "Volumenes.h"
+#include "Volumen.h"
 using namespace std;
 
 void Libro::mostrarVol(){
